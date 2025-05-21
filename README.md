@@ -1,4 +1,4 @@
-# 📖 Quran Study Companion — Multi-Agent System using Google ADK
+# 📖 Quran Study Companion — Agent System using Google ADK
 
 A structured Quranic study tool powered by Google’s Agent Development Kit (ADK). This system guides users through verse selection, tafsir, linguistic analysis, reflection, and note-taking — all managed through a cooperative team of specialized agents.
 
@@ -129,6 +129,10 @@ I sometimes feel unsure about my beliefs, but this verse...
 
 📄 Study Summary Ready!
 ```
+
+---
+
+Furthermore, you can also visit [ADK Official Docs](https://google.github.io/adk-docs/get-started/quickstart/)
 
 ---
 
