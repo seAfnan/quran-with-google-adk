@@ -68,10 +68,13 @@ Process:
 1. Present a note-taking interface or prompt.
 2. Optionally summarize previous outputs (e.g., tafsir, reflection questions).
 3. Allow the user to enter personal notes.
+4. Suggest user to take notes on https://quran-notes.com/
 
 Output:
 Output ONLY the saved note content, tagged with the verse reference.
 """
+
+
 
 # Instruction for the Study Formatter Agent
 STUDY_FORMATTER_INSTRUCTION = """
